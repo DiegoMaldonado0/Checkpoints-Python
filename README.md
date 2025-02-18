@@ -3,6 +3,7 @@ la aplicación sea capaz de restaurar su estado desde el paso que se guardó.
 
 
 La primera vez que se corre el programa, esté será incapaz de encontrar un checkpoint, por lo que inicia en el paso 0, cada que avanza un paso se le pregunta al usuario si desea crear el checkpoint
+
 ![image](https://github.com/user-attachments/assets/888f43c7-ef7d-44a7-ab3a-480471b24581)
 
 
